@@ -1,12 +1,13 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "Research_Control_Combinator_Updated_Tweaks",
+  "title": "Research Control Combinator Updated Tweaks",
+  "description": "Opinionated tweaks to Research Control Combinator Updated.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.0",
+    "Research_Control_Combinator_Updated >= 1.0.3"
   ]
 }
