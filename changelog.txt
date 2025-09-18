@@ -2,4 +2,4 @@
 Version: 1.0.0
 Date: ????
   Changes:
-    - [item=Research_Control_Combinator] Move to circuit-combinator subgroup if SchallCircuitGroups is installed.
+    - [item=Research_Control_Combinator] Move to circuit-combinator subgroup if SchallCircuitGroup is installed.
