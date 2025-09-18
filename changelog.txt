@@ -5,3 +5,4 @@ Date: ????
     - Fixed issue where research control combinator was always enabled.
   Changes:
     - [item=Research_Control_Combinator] Move to circuit-combinator subgroup if SchallCircuitGroup is installed.
+    - Removed custom research, research control combinator is now unlocked via circuit network technology.
