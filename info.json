@@ -14,7 +14,8 @@
   ],
   "package": {
     "ignore": [
-      "**/*.xcf"
+      "**/*.xcf",
+      "**/*.settings"
     ]
   }
 }
