@@ -6,3 +6,5 @@ Date: ????
   Changes:
     - [item=Research_Control_Combinator] Move to circuit-combinator subgroup if SchallCircuitGroup is installed.
     - Removed custom research, research control combinator is now unlocked via circuit network technology.
+  Features:
+    - [item=Research_Control_Combinator] Add custom graphics to differentiate it from other combinators.

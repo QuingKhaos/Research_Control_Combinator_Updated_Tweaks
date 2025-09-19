@@ -1,3 +1,3 @@
 if mods["SchallCircuitGroup"] then
-  data.raw.item["Research_Control_Combinator"].subgroup = "circuit-combinator"
+  data.raw.item[names.research_control_combinator].subgroup = "circuit-combinator"
 end
