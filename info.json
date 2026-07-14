@@ -1,16 +1,15 @@
 {
   "name": "Research_Control_Combinator_Updated_Tweaks",
   "title": "Research Control Combinator Updated Tweaks",
-  "description": "Opinionated tweaks to Research Control Combinator Updated.",
+  "description": "[DEPRECATED] Functionality migrated to QuingKhaos' Circuitry Tweaks.",
   "author": "QuingKhaos",
-  "homepage": "",
-  "version": "1.0.0",
+  "homepage": "https://discord.gg/SYmkaDjFCt",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
-    "khaoslib >= 0.1.0",
-    "Research_Control_Combinator_Updated >= 1.0.3",
-    "? SchallCircuitGroup >= 2.0.0"
+
+    "khaoscircuitry >= 1.6.0"
   ],
   "package": {
     "ignore": [
